@@ -123,7 +123,17 @@ public class RagulRagav {
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=ragul1202&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=8)
+![MultiLanguage](https://img.shields.io/badge/🏆%20Multi%20Language-Java%20%7C%20JS%20%7C%20SQL-70a5fd?style=for-the-badge&labelColor=0d1117)
+![FullStack](https://img.shields.io/badge/🥇%20Full%20Stack-Frontend%20%2B%20Backend-bf91f3?style=for-the-badge&labelColor=0d1117)
+![Frameworks](https://img.shields.io/badge/⚡%20Frameworks-Spring%20Boot%20%7C%20React-38bdae?style=for-the-badge&labelColor=0d1117)
+
+![RestAPI](https://img.shields.io/badge/🔗%20REST%20APIs-Designed%20%26%20Implemented-70a5fd?style=for-the-badge&labelColor=0d1117)
+![Database](https://img.shields.io/badge/🗄️%20Database-MySQL%20%7C%20Hibernate-bf91f3?style=for-the-badge&labelColor=0d1117)
+![CGPA](https://img.shields.io/badge/🎓%20CGPA-8.0%20%2F%2010-38bdae?style=for-the-badge&labelColor=0d1117)
+
+![Projects](https://img.shields.io/badge/🚀%20Projects-3%20Full%20Stack%20Apps-70a5fd?style=for-the-badge&labelColor=0d1117)
+![Internships](https://img.shields.io/badge/💼%20Internships-2%20Companies-bf91f3?style=for-the-badge&labelColor=0d1117)
+![CSI](https://img.shields.io/badge/🤝%20Member-CSI%20%7C%20ISTE-38bdae?style=for-the-badge&labelColor=0d1117)
 
 </div>
 

@@ -87,13 +87,15 @@ public class RagulRagav {
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ragul1202&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ragul1202&theme=tokyonight" width="100%" alt="Profile Summary"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ragul1202&theme=tokyonight" width="32%" alt="Repos Per Language"/>
 &nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ragul1202&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ragul1202&theme=tokyonight" width="32%" alt="Most Commit Language"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ragul1202&theme=tokyonight" width="32%" alt="Stats"/>
 
 </div>
-
-> ⚠️ **Note:** Stats cards above require your GitHub repos to be public. If they still appear broken, follow the **self-host fix** at the bottom of this README.
 
 ---
 

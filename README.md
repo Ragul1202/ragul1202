@@ -86,14 +86,16 @@ public class RagulRagav {
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<a href="https://github.com/ragul1202">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ragul1202&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10&card_width=450" alt="Ragul's GitHub Stats"/>
-</a>
-<a href="https://github.com/ragul1202">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragul1202&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" alt="Ragul's Top Languages"/>
-</a>
-
+  <table border="0" cellspacing="0" cellpadding="8">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=ragul1202&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" alt="Ragul's GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragul1202&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" alt="Ragul's Top Languages" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -101,11 +103,7 @@ public class RagulRagav {
 ## 🔥 Streak Stats
 
 <div align="center">
-
-<a href="https://streak-stats.demolab.com?user=ragul1202">
-  <img src="https://streak-stats.demolab.com?user=ragul1202&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
-</a>
-
+  <img src="https://streak-stats.demolab.com/?user=ragul1202&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak Stats" />
 </div>
 
 ---
@@ -113,11 +111,7 @@ public class RagulRagav {
 ## 📈 Activity Graph
 
 <div align="center">
-
-<a href="https://github.com/ragul1202">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ragul1202&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%" alt="Ragul's Activity Graph"/>
-</a>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ragul1202&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Ragul's Activity Graph" width="95%" />
 </div>
 
 ---
@@ -125,11 +119,7 @@ public class RagulRagav {
 ## 🏆 Trophy Wall
 
 <div align="center">
-
-<a href="https://github.com/ragul1202">
-  <img src="https://github-profile-trophy.vercel.app/?username=ragul1202&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" alt="Ragul's GitHub Trophies"/>
-</a>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=ragul1202&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=8&margin-h=8" alt="Ragul's GitHub Trophies" />
 </div>
 
 ---

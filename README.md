@@ -86,24 +86,23 @@ public class RagulRagav {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <table border="0" cellspacing="0" cellpadding="8">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=ragul1202&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" alt="Ragul's GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragul1202&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" alt="Ragul's Top Languages" />
-      </td>
-    </tr>
-  </table>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ragul1202&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10)
+&nbsp;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ragul1202&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10)
+
 </div>
+
+> ⚠️ **Note:** Stats cards above require your GitHub repos to be public. If they still appear broken, follow the **self-host fix** at the bottom of this README.
 
 ---
 
 ## 🔥 Streak Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=ragul1202&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak Stats" />
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=ragul1202&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)
+
 </div>
 
 ---
@@ -111,7 +110,9 @@ public class RagulRagav {
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ragul1202&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Ragul's Activity Graph" width="95%" />
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ragul1202&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)
+
 </div>
 
 ---
@@ -119,7 +120,22 @@ public class RagulRagav {
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ragul1202&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=8&margin-h=8" alt="Ragul's GitHub Trophies" />
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=ragul1202&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=8)
+
+</div>
+
+---
+
+## 📌 Quick GitHub Metrics
+
+<div align="center">
+
+![Repos](https://img.shields.io/badge/Public%20Repos-Check%20Profile-70a5fd?style=for-the-badge&logo=github&logoColor=white)
+![Stars](https://img.shields.io/github/stars/ragul1202?style=for-the-badge&color=bf91f3&labelColor=0d1117&logo=github&label=Total%20Stars)
+![Followers](https://img.shields.io/github/followers/ragul1202?style=for-the-badge&color=38bdae&labelColor=0d1117&logo=github&label=Followers)
+![Profile Views](https://komarev.com/ghpvc/?username=ragul1202&style=for-the-badge&color=70a5fd&label=Profile+Views)
+
 </div>
 
 ---
@@ -236,5 +252,30 @@ public class RagulRagav {
 <div align="center">
 <i>"Build it. Break it. Fix it. Ship it. 🚀"</i>
 </div>
+
+<details>
+<summary><b>🔧 Stats Cards Not Loading? — Self-Host Fix (2 minutes)</b></summary>
+
+<br/>
+
+The shared `github-readme-stats.vercel.app` instance rate-limits requests for accounts with no GitHub token. Fix it in 2 steps:
+
+**Step 1 — Deploy your own instance (free):**
+1. Go to → https://github.com/anuraghazra/github-readme-stats
+2. Click **Fork**
+3. Go to https://vercel.com → Import your forked repo → Deploy
+4. In Vercel dashboard → Settings → Environment Variables → Add:
+   - Key: `PAT_1`
+   - Value: Your GitHub Personal Access Token (Settings → Developer Settings → Tokens → Classic → `repo` scope)
+
+**Step 2 — Replace the domain in this README:**
+- Find: `github-readme-stats.vercel.app`
+- Replace with: `your-fork-name.vercel.app`
+
+That's it — your stats will always load instantly! ⚡
+
+</details>
+
+---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>

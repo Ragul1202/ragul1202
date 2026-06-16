@@ -23,7 +23,7 @@ public class RagulRagav {
     private String degree       = "B.E. Computer Science Engineering";
     private String college      = "SRM Valliammai Engineering College";
     private String email        = "ragulragavt@gmail.com";
-    private String portfolio    = "https://ragul1202.github.io/own-profile/";
+    private String portfolio    = "https://ragul1202.github.io/Portfolio/";
 
     private String[] stack = {
         "Core Java", "Spring Boot", "React.js",
